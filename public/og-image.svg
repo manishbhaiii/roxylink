@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0a;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1a1a1a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0a0a0a;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#9B5DE5;stop-opacity:1" />
+      <stop offset="25%" style="stop-color:#F15BB5;stop-opacity:1" />
+      <stop offset="75%" style="stop-color:#00BBF9;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FEE75C;stop-opacity:1" />
+    </linearGradient>
+    <radialGradient id="glowGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#9B5DE5;stop-opacity:0.3" />
+      <stop offset="100%" style="stop-color:#9B5DE5;stop-opacity:0" />
+    </radialGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bgGrad)"/>
+  
+  <!-- Glow effect -->
+  <ellipse cx="600" cy="315" rx="400" ry="200" fill="url(#glowGrad)"/>
+  
+  <!-- Chain link icon -->
+  <path d="M480 350a60 60 0 0 1 0-85l45-45a60 60 0 1 1 85 85L565 350" stroke="url(#textGrad)" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <path d="M565 280a60 60 0 0 1 0 85l-45 45a60 60 0 1 1-85-85L480 280" stroke="url(#textGrad)" stroke-width="12" fill="none" stroke-linecap="round"/>
+  
+  <!-- Title -->
+  <text x="600" y="420" font-family="Arial, sans-serif" font-size="72" font-weight="bold" text-anchor="middle" fill="url(#textGrad)">RoxyLinks</text>
+  
+  <!-- Subtitle -->
+  <text x="600" y="480" font-family="Arial, sans-serif" font-size="32" text-anchor="middle" fill="#ffffff" opacity="0.8">Your Personal Link Hub</text>
+  
+  <!-- Description -->
+  <text x="600" y="520" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#ffffff" opacity="0.6">Instant redirects • Beautiful design • One-click deploy</text>
+</svg>

@@ -1,0 +1,22 @@
+{
+  "name": "RoxyLinks - Personal Link Hub",
+  "short_name": "RoxyLinks",
+  "description": "Your personal link hub with auto-redirects and beautiful dark theme",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#9B5DE5",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
