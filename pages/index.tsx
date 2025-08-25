@@ -179,7 +179,7 @@ export default function Home({ links }: HomeProps) {
             <p>
               Built with{' '}
               <span className="text-red-500">♥</span>
-              {' '}by it's manish
+              {' '}by it&apos;s manish
             </p>
             <p className="mt-2 text-sm">
               Fork this project and customize your own link hub!
