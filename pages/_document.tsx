@@ -16,9 +16,9 @@ export default function Document() {
         
         {/* Open Graph / Facebook */}
         <meta property="og:type" content="website" />
-        <meta property="og:site_name" content="RoxyLinks" />
+        <meta property="og:site_name" content="its manish?" />
         <meta property="og:title" content="🔗 RoxyLinks - Personal Link Hub" />
-        <meta property="og:description" content="🚀 Your personal link hub with auto-redirects • Beautiful dark theme • Discord integration • One-click deploy" />
+        <meta property="og:description" content="🚀 Open source • 1 click deploy • Discord integration" />
         <meta property="og:image" content="https://roxylink.vercel.app/og-image.png" />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
@@ -28,7 +28,7 @@ export default function Document() {
         {/* Twitter */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="🔗 RoxyLinks - Personal Link Hub" />
-        <meta name="twitter:description" content="🚀 Your personal link hub with auto-redirects • Beautiful dark theme • Discord integration • One-click deploy" />
+        <meta name="twitter:description" content="🚀 Open source • 1 click deploy • Discord integration" />
         <meta name="twitter:image" content="https://roxylink.vercel.app/og-image.png" />
         
         {/* Additional Meta Tags */}
