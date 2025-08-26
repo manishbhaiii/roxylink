@@ -17,18 +17,19 @@ export default function Document() {
         {/* Open Graph / Facebook */}
         <meta property="og:type" content="website" />
         <meta property="og:site_name" content="RoxyLinks" />
-        <meta property="og:title" content="RoxyLinks - Personal Link Hub" />
-        <meta property="og:description" content="Your personal link hub with auto-redirects. Beautiful dark theme, instant redirects, and one-click Vercel deployment." />
-        <meta property="og:image" content="/og-image.svg" />
+        <meta property="og:title" content="🔗 RoxyLinks - Personal Link Hub" />
+        <meta property="og:description" content="🚀 Your personal link hub with auto-redirects • Beautiful dark theme • Discord integration • One-click deploy" />
+        <meta property="og:image" content="https://roxylink.vercel.app/og-image.png" />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
-        <meta property="og:image:type" content="image/svg+xml" />
+        <meta property="og:image:type" content="image/png" />
+        <meta property="og:url" content="https://roxylink.vercel.app" />
         
         {/* Twitter */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="RoxyLinks - Personal Link Hub" />
-        <meta name="twitter:description" content="Your personal link hub with auto-redirects. Beautiful dark theme, instant redirects, and one-click Vercel deployment." />
-        <meta name="twitter:image" content="/og-image.svg" />
+        <meta name="twitter:title" content="🔗 RoxyLinks - Personal Link Hub" />
+        <meta name="twitter:description" content="🚀 Your personal link hub with auto-redirects • Beautiful dark theme • Discord integration • One-click deploy" />
+        <meta name="twitter:image" content="https://roxylink.vercel.app/og-image.png" />
         
         {/* Additional Meta Tags */}
         <meta name="robots" content="index, follow" />
