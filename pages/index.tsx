@@ -85,7 +85,7 @@ export default function Home({ links }: HomeProps) {
             </p>
             <p className="text-gray-500 mt-4 max-w-xl mx-auto">
               Share individual links like website.vercel.app/discord, insta, etc.{' '}
-             <p> <a href="https://github.com/manishbhaiii" target="_blank" rel="noopener noreferrer" className="text-blue-400 font-mono hover:text-blue-300 transition-colors cursor-pointer underline decoration-blue-400/50 hover:decoration-blue-300">This Project Link</a> </p>
+             <p> <a href="https://github.com/manishbhaiii/roxylink" target="_blank" rel="noopener noreferrer" className="text-blue-400 font-mono hover:text-blue-300 transition-colors cursor-pointer underline decoration-blue-400/50 hover:decoration-blue-300">This Project Link</a> </p>
             </p>
           </div>
 
